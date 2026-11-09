@@ -1,7 +1,7 @@
 {
  "site": "https://shavelagever.com",
  "currency": "ILS",
- "count": 17,
+ "count": 18,
  "deals": [
   {
    "id": "2026-11-08-gever-1",
@@ -18,7 +18,9 @@
    "why": "98% ביקורות חיוביות, יותר מ-18,000 נמכרו, נטען ב-USB-C",
    "warn": "מספר הלומן שהיצרן כותב גבוה ממה שתקבלו בפועל. המחיר לדגם הבסיסי.",
    "link": "https://s.click.aliexpress.com/e/_c32x7Omj",
-   "img": "https://shavelagever.com/deals/img/2026-11-08-gever-1.jpg"
+   "img": "https://shavelagever.com/deals/img/2026-11-08-gever-1.jpg",
+   "pid": "1005009874279172",
+   "thumb": "https://shavelagever.com/deals/img/sm/2026-11-08-gever-1.webp"
   },
   {
    "id": "2026-11-08-gever-2",
@@ -35,7 +37,9 @@
    "why": "98% ביקורות חיוביות, יותר מ-2,300 נמכרו, קטן ונכנס לתיק",
    "warn": "זה דגם מיני, חלש יותר מאקדח עיסוי מלא. מתאים לצוואר ולכתפיים.",
    "link": "https://s.click.aliexpress.com/e/_c4o9d2UR",
-   "img": "https://shavelagever.com/deals/img/2026-11-08-gever-2.jpg"
+   "img": "https://shavelagever.com/deals/img/2026-11-08-gever-2.jpg",
+   "pid": "1005008932506726",
+   "thumb": "https://shavelagever.com/deals/img/sm/2026-11-08-gever-2.webp"
   },
   {
    "id": "2026-11-08-gever-3",
@@ -52,7 +56,28 @@
    "why": "98% ביקורות חיוביות, יותר מ-2,900 נמכרו, מסך דיגיטלי ונעילת מדידה",
    "warn": "יש כמה אפשרויות ברשימה, המחיר לזולה. לבדוק שבוחרים את הגרסה שבתמונה.",
    "link": "https://s.click.aliexpress.com/e/_c3zn9q0X",
-   "img": "https://shavelagever.com/deals/img/2026-11-08-gever-3.jpg"
+   "img": "https://shavelagever.com/deals/img/2026-11-08-gever-3.jpg",
+   "pid": "1005008715958124",
+   "thumb": "https://shavelagever.com/deals/img/sm/2026-11-08-gever-3.webp"
+  },
+  {
+   "id": "2026-11-08-gever-4",
+   "name": "נורת קמפינג נטענת עם וו",
+   "tag": "שטח",
+   "store": "aliexpress",
+   "date": "2026-11-08",
+   "israel": false,
+   "il_text": "פנסי קמפינג נטענים בארץ: מ-38 ₪",
+   "il_from": 38.0,
+   "ali": 15.0,
+   "ali_note": "מחיר רגיל לאפשרות הזולה, בזמן הפרסום",
+   "new_user_price": false,
+   "why": "98% ביקורות חיוביות, יותר מ-14,000 נמכרו, תולים על וו",
+   "warn": "יש כמה עוצמות, המחיר לגרסה הבסיסית. מתאים גם כתאורת חירום בהפסקת חשמל.",
+   "link": "https://s.click.aliexpress.com/e/_c3bXIbVd",
+   "img": "https://shavelagever.com/deals/img/2026-11-08-gever-4.jpg",
+   "pid": "1005009045147727",
+   "thumb": "https://shavelagever.com/deals/img/sm/2026-11-08-gever-4.webp"
   },
   {
    "id": "2026-11-06-gever-1",
@@ -69,7 +94,9 @@
    "why": "96% ביקורות חיוביות, יותר מ-4,000 נמכרו, נעצר לבד בלחץ שבוחרים",
    "warn": "מתאים לצמיגי רכב, אופניים וכדורים. לצמיג ריק לגמרי של ג׳יפ זה ייקח כמה דקות.",
    "link": "https://s.click.aliexpress.com/e/_c3vP5qCj",
-   "img": "https://shavelagever.com/deals/img/2026-11-06-gever-1.jpg"
+   "img": "https://shavelagever.com/deals/img/2026-11-06-gever-1.jpg",
+   "pid": "1005005768360349",
+   "thumb": "https://shavelagever.com/deals/img/sm/2026-11-06-gever-1.webp"
   },
   {
    "id": "2026-11-06-gever-2",
@@ -86,7 +113,9 @@
    "why": "96% ביקורות חיוביות, שוקל 25 גרם ונטען ב-USB",
    "warn": "טווח 30 מטר, בחוץ באור שמש חזק הנקודה קשה לראות.",
    "link": "https://s.click.aliexpress.com/e/_c3b8tJnl",
-   "img": "https://shavelagever.com/deals/img/2026-11-06-gever-2.jpg"
+   "img": "https://shavelagever.com/deals/img/2026-11-06-gever-2.jpg",
+   "pid": "1005006437012706",
+   "thumb": "https://shavelagever.com/deals/img/sm/2026-11-06-gever-2.webp"
   },
   {
    "id": "2026-11-06-gever-3",
@@ -103,7 +132,9 @@
    "why": "98% ביקורות חיוביות, יותר מ-3,000 נמכרו, מגיע עם 6 אביזרים",
    "warn": "53 ₪ לגרסה עם 6 אביזרים, הגרסה עם 7 עולה כ-25 ₪ יותר. רועש כמו פן.",
    "link": "https://s.click.aliexpress.com/e/_c33d2CLt",
-   "img": "https://shavelagever.com/deals/img/2026-11-06-gever-3.jpg"
+   "img": "https://shavelagever.com/deals/img/2026-11-06-gever-3.jpg",
+   "pid": "1005008909072040",
+   "thumb": "https://shavelagever.com/deals/img/sm/2026-11-06-gever-3.webp"
   },
   {
    "id": "2026-11-05-gever-1",
@@ -120,7 +151,9 @@
    "why": "98% ביקורות חיוביות, יותר מ-14,000 נמכרו",
    "warn": "המחיר לצבע שחור. בארץ קונים מיבואן רשמי עם אחריות, מעליאקספרס אין אחריות מקומית.",
    "link": "https://s.click.aliexpress.com/e/_c3jVyYrl",
-   "img": "https://shavelagever.com/deals/img/2026-11-05-gever-1.jpg"
+   "img": "https://shavelagever.com/deals/img/2026-11-05-gever-1.jpg",
+   "pid": "1005007129340508",
+   "thumb": "https://shavelagever.com/deals/img/sm/2026-11-05-gever-1.webp"
   },
   {
    "id": "2026-11-05-gever-2",
@@ -137,7 +170,9 @@
    "why": "98% ביקורות חיוביות, יותר מ-15,000 נמכרו",
    "warn": "נתלה על האוזן או נצמד לכובע, אין רצועת ראש רגילה. המחיר לדגם 6818A.",
    "link": "https://s.click.aliexpress.com/e/_c2yETNhH",
-   "img": "https://shavelagever.com/deals/img/2026-11-05-gever-2.jpg"
+   "img": "https://shavelagever.com/deals/img/2026-11-05-gever-2.jpg",
+   "pid": "1005013357971214",
+   "thumb": "https://shavelagever.com/deals/img/sm/2026-11-05-gever-2.webp"
   },
   {
    "id": "2026-11-05-gever-3",
@@ -154,7 +189,9 @@
    "why": "מותג TYESO, 97% ביקורות חיוביות, יותר מ-3,500 נמכרו",
    "warn": "המחיר לגודל 600 מ״ל. 750 מ״ל ומעלה עולים יותר.",
    "link": "https://s.click.aliexpress.com/e/_c4pyop43",
-   "img": "https://shavelagever.com/deals/img/2026-11-05-gever-3.jpg"
+   "img": "https://shavelagever.com/deals/img/2026-11-05-gever-3.jpg",
+   "pid": "1005008764004435",
+   "thumb": "https://shavelagever.com/deals/img/sm/2026-11-05-gever-3.webp"
   },
   {
    "id": "2026-11-05-gever-carplay",
@@ -171,7 +208,9 @@
    "why": "יותר מ-29,000 נמכרו, נכנס ל-USB ומתחבר לבד כשנכנסים לרכב",
    "warn": "מתאים רק לרכב שכבר יש בו CarPlay עם כבל, הוא הופך אותו לאלחוטי. הדירוג 90%, נמוך מהרגיל אצלנו. ל-Android Auto המוכר לא מבטיח בבירור, לבעלי אנדרואיד לבדוק לפני.",
    "link": "https://s.click.aliexpress.com/e/_c3eCwAV5",
-   "img": "https://shavelagever.com/deals/img/2026-11-05-gever-carplay.jpg"
+   "img": "https://shavelagever.com/deals/img/2026-11-05-gever-carplay.jpg",
+   "pid": "1005011862988163",
+   "thumb": "https://shavelagever.com/deals/img/sm/2026-11-05-gever-carplay.webp"
   },
   {
    "id": "2026-11-04-gever-1",
@@ -188,7 +227,9 @@
    "why": "מותג WORX, דירוג 4.9, יותר מ-10,000 נמכרו",
    "warn": "המחיר לדגם WX240. דגם WX242 עולה 107 ₪.",
    "link": "https://s.click.aliexpress.com/e/_c33Ba0Rl",
-   "img": "https://shavelagever.com/deals/img/2026-11-04-gever-1.jpg"
+   "img": "https://shavelagever.com/deals/img/2026-11-04-gever-1.jpg",
+   "pid": null,
+   "thumb": "https://shavelagever.com/deals/img/sm/2026-11-04-gever-1.webp"
   },
   {
    "id": "2026-11-04-gever-2",
@@ -205,7 +246,9 @@
    "why": "דירוג 4.7, יותר מ-5,000 נמכרו",
    "warn": "המחיר לדגם הבסיסי QY03. לבדוק שמתאים לנפח המנוע.",
    "link": "https://s.click.aliexpress.com/e/_c4qmmjYT",
-   "img": "https://shavelagever.com/deals/img/2026-11-04-gever-2.jpg"
+   "img": "https://shavelagever.com/deals/img/2026-11-04-gever-2.jpg",
+   "pid": null,
+   "thumb": "https://shavelagever.com/deals/img/sm/2026-11-04-gever-2.webp"
   },
   {
    "id": "2026-11-04-gever-3",
@@ -222,7 +265,9 @@
    "why": "דירוג 4.8, יותר מ-3,000 נמכרו",
    "warn": "בוחרים 2-Channel כדי לקבל גם מצלמה אחורית. כרטיס זיכרון לא כלול.",
    "link": "https://s.click.aliexpress.com/e/_c2QcPpAP",
-   "img": "https://shavelagever.com/deals/img/2026-11-04-gever-3.jpg"
+   "img": "https://shavelagever.com/deals/img/2026-11-04-gever-3.jpg",
+   "pid": null,
+   "thumb": "https://shavelagever.com/deals/img/sm/2026-11-04-gever-3.webp"
   },
   {
    "id": "il-1005011649209657",
@@ -239,7 +284,9 @@
    "why": "דירוג 4.8, חצובה מתכווננת לעבודה בחוץ ובמחסן",
    "warn": "יש גרסה עם ראש בודד וגרסה עם ראש כפול, המחיר לזולה. לא השווינו מפרט אחד לאחד מול זרקורים בארץ.",
    "link": "https://s.click.aliexpress.com/e/_c3ym8iAT",
-   "img": "https://shavelagever.com/deals/img/il-1005011649209657.jpg"
+   "img": "https://shavelagever.com/deals/img/il-1005011649209657.jpg",
+   "pid": "1005011649209657",
+   "thumb": "https://shavelagever.com/deals/img/sm/il-1005011649209657.webp"
   },
   {
    "id": "il-1005012088526248",
@@ -256,7 +303,9 @@
    "why": "נטען, שני ראשים, 1600 לומן",
    "warn": "כמעט אין עדיין מכירות וביקורות על הדגם הזה.",
    "link": "https://s.click.aliexpress.com/e/_c4qxL0DD",
-   "img": "https://shavelagever.com/deals/img/il-1005012088526248.jpg"
+   "img": "https://shavelagever.com/deals/img/il-1005012088526248.jpg",
+   "pid": "1005012088526248",
+   "thumb": "https://shavelagever.com/deals/img/sm/il-1005012088526248.webp"
   },
   {
    "id": "il-1005013499128147",
@@ -273,7 +322,9 @@
    "why": "57 נמכרו בחודש האחרון, מסך 9.7 אינץ׳",
    "warn": "בארץ לא מצאנו את אותה גרסה בדיוק, אז אין השוואת מחיר. בודקים שהגרסה מתאימה לכם לפני שקונים.",
    "link": "https://s.click.aliexpress.com/e/_c30FsaUP",
-   "img": "https://shavelagever.com/deals/img/il-1005013499128147.jpg"
+   "img": "https://shavelagever.com/deals/img/il-1005013499128147.jpg",
+   "pid": "1005013499128147",
+   "thumb": "https://shavelagever.com/deals/img/sm/il-1005013499128147.webp"
   },
   {
    "id": "il-1005013485997051",
@@ -290,7 +341,9 @@
    "why": "אותו דגם בדיוק שנמכר בארץ, נשלח מישראל, 133 נמכרו בעליאקספרס",
    "warn": "בארץ החנות הזולה היא יבוא מקביל. בודקים את האחריות שהחנות נותנת ובוחרים צבע לפני התשלום.",
    "link": "https://s.click.aliexpress.com/e/_c4PKGUD1",
-   "img": "https://shavelagever.com/deals/img/il-1005013485997051.jpg"
+   "img": "https://shavelagever.com/deals/img/il-1005013485997051.jpg",
+   "pid": "1005013485997051",
+   "thumb": "https://shavelagever.com/deals/img/sm/il-1005013485997051.webp"
   }
  ]
 }
