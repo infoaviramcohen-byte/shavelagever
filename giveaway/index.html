@@ -88,6 +88,31 @@ footer{color:#9a9a9a;padding:26px 20px 24px;font-size:14px;line-height:1.6;text-
 .bar .left small{display:block;font-size:12px;color:#bdbdbd}
 .bar .left b{font-size:17px;font-weight:900;color:#ff4d4d;font-variant-numeric:tabular-nums}
 .bar .btn{flex:1;height:52px;font-size:18px}
+@media (min-width:900px){
+.page{max-width:1160px;padding:0 32px 110px}
+.hero{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr);grid-template-areas:"logo card" "kick card" "h1 card" "count card" "btn card" "note card";column-gap:48px;row-gap:16px;align-items:center;justify-items:start;padding:48px 40px 56px;border-radius:0 0 32px 32px;background:radial-gradient(70% 90% at 30% 50%,rgba(230,30,30,.5) 0%,rgba(120,0,0,.22) 50%,rgba(11,11,12,0) 80%)}
+.hero .logo{grid-area:logo;width:84px;height:84px}
+.hero .kicker{grid-area:kick;font-size:20px}
+.hero h1{grid-area:h1;text-align:right;font-size:64px}
+.hero h1 .s{font-size:32px}
+.hero .cardwrap{grid-area:card;justify-self:center;transform:scale(1.45);transform-origin:center}
+.hero .count{grid-area:count;max-width:560px}
+.hero .btn{grid-area:btn;max-width:560px}
+.hero .note{grid-area:note;text-align:right}
+.steps{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.steps h2{grid-column:1/-1}
+.grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:18px}
+.deals{border-radius:28px;padding:48px 40px}
+.faq{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;align-items:start}
+.faq h2{grid-column:1/-1}
+.final{margin:20px 0 0;padding:56px 40px;flex-direction:row;justify-content:space-between;gap:32px}
+.final h2{text-align:right;font-size:40px}
+.final .btn{max-width:380px}
+h2{font-size:38px}
+.lead{font-size:19px;max-width:70ch;margin:0 auto}
+.bar .in{max-width:1096px}
+.bar .btn{max-width:520px;margin-inline-start:auto}
+}
 @media (prefers-reduced-motion:reduce){.btn{transition:none}}
 </style>
 <!-- Google tag (GA4) -->
@@ -116,7 +141,7 @@ var h=a.getAttribute('href');if(!h||h.charAt(0)==='#'||ev.metaKey||ev.ctrlKey)re
   <div class="note">חינם · יוצאים מתי שרוצים · מגיל 18</div>
 </section>
 
-<section>
+<section class="steps">
   <h2>2 צעדים ואתם בפנים</h2>
   <div class="step"><div class="n">1</div><div><b>מצטרפים לקבוצה</b><p>קבוצת הוואטסאפ של שווה לגבר. בחינם. כבר בקבוצה? אתם בפנים אוטומטית.</p></div></div>
   <div class="step"><div class="n">2</div><div><b>נשארים עד ההגרלה</b><p>חמישי 26.11 ב-20:00. 3 זוכים מוכרזים בקבוצה, מול כולם, ומקבלים הודעה בפרטי.</p></div></div>
@@ -135,7 +160,7 @@ var h=a.getAttribute('href');if(!h||h.charAt(0)==='#'||ev.metaKey||ev.ctrlKey)re
   <div class="chips"><span>כלי עבודה</span><span>לרכב</span><span>שטח וקמפינג</span><span>גאדג׳טים</span></div>
 </section>
 
-<section style="padding-top:10px">
+<section class="faq" style="padding-top:10px">
   <h2>שאלות קצרות</h2>
   <details open><summary>זה עולה משהו?</summary><div>לא. ההצטרפות וההשתתפות בחינם, בלי קנייה.</div></details>
   <details><summary>מי יכול להשתתף?</summary><div>תושבי ישראל מגיל 18 ומעלה. מי שכבר בקבוצה משתתף אוטומטית.</div></details>
